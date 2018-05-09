@@ -67,3 +67,9 @@ cms/db.sqlite3
 
 # Pyaknet packet logs
 logs/
+
+# vscode env
+.vscode/
+
+# JetBrains env
+.idea/

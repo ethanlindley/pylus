@@ -14,7 +14,7 @@ PACKET_NAMES = {
     },
     # Client World/Char
     0x04: {
-        0x01: 'session_info'
+        0x01: 'session_info',
         0x02: 'character_list_request',
     },
     # Server
